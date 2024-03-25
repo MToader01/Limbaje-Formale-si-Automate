@@ -1,0 +1,12 @@
+1.
+L={abxyz∣a,b∈{1,2,...,9},x,y,z∈{0,1,...,9},ab∈{10,11,...,99},xyz∈{000,001,...,999}}
+2.
+Regex=ab(?=\d3)\d3
+
+Explicații:
+
+ab: Identifică primele două cifre ale codului poștal.
+
+(?=\d3): Asigură că următoarele trei cifre sunt prezente, dar nu le consumă.
+
+\d3: Validează că următoarele trei cifre sunt între 0 și 9.

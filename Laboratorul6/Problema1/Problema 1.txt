@@ -1,0 +1,23 @@
+Expresia regulată dată este:
+(1+00∗1)+(1+00∗1)(0+10∗1)∗(0+10∗1)=0∗1(0+10∗1)
+
+Partea Stângă (LS):
+(1+00∗1)+(1+00∗1)(0+10∗1)∗(0+10∗1)
+
+Partea Dreaptă (RS):
+0∗1(0+10∗1)
+
+Înainte de a începe demonstrația, vom simplifica prima parte a expresiei stângi.
+(1+00∗1)=(1+0∗1)=(1+1)=1
+
+Acum, putem rescrie expresia stângă ca:
+1+(1+00∗1)(0+10∗1)∗(0+10∗1)
+
+Acum, vom distribui termenul 1 în partea dreaptă:
+1+(0+10∗1)∗(0+10∗1)+(0+10∗1)∗(0+10∗1)
+
+1+(0+10∗1)∗(0+10∗1)
+
+1+0∗1(0+10∗1)
+
+0∗1(0+10∗1)
